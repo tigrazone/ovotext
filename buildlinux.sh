@@ -1,8 +1,9 @@
 #!/bin/bash
 # set -x
 #Set path where lazarus is installed
-LAZARUS_DIR=~/development/lazarus
+LAZARUS_DIR=/usr/share/lazarus/3.0.0/
 CONFIG_PATH=
+CPU_TARGET=x86_64
 # 
 if [ "$BASE" = "" ]; then
   BASE=$(pwd)
