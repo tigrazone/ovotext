@@ -527,7 +527,9 @@ msgid "Print"
 msgstr "Stampa"
 
 #: tfmain.actquote.caption
-msgid "Quote"
+#, fuzzy
+#| msgid "Quote"
+msgid "Quote lines"
 msgstr "Metti fra apici"
 
 #: tfmain.actshowrownumber.caption
@@ -575,6 +577,10 @@ msgstr "Rimuovi gli spazi finali"
 msgctxt "tfmain.acttrimtrailing.hint"
 msgid "Trim Trailing spaces"
 msgstr "Rimuovi gli spazi finali"
+
+#: tfmain.actunquote.caption
+msgid "Unquote lines"
+msgstr ""
 
 #: tfmain.actuppercase.caption
 msgid "UPPERCASE"
@@ -679,6 +685,10 @@ msgstr "Copia come RTF"
 #: tfmain.exportrtftofile.caption
 msgid "Save as RTF"
 msgstr "Salva come RTF"
+
+#: tfmain.filebrowsefolder.caption
+msgid "Browse Folder"
+msgstr ""
 
 #: tfmain.fileclose.caption
 msgid "Close"
@@ -939,3 +949,4 @@ msgstr "Ordinamento Discendente"
 msgctxt "tfmain.sortdescending.hint"
 msgid "Sort Descending"
 msgstr "Ordinamento Discendente"
+

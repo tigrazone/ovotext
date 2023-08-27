@@ -484,7 +484,7 @@ msgid "Print"
 msgstr ""
 
 #: tfmain.actquote.caption
-msgid "Quote"
+msgid "Quote lines"
 msgstr ""
 
 #: tfmain.actshowrownumber.caption
@@ -531,6 +531,10 @@ msgstr ""
 #: tfmain.acttrimtrailing.hint
 msgctxt "tfmain.acttrimtrailing.hint"
 msgid "Trim Trailing spaces"
+msgstr ""
+
+#: tfmain.actunquote.caption
+msgid "Unquote lines"
 msgstr ""
 
 #: tfmain.actuppercase.caption
@@ -635,6 +639,10 @@ msgstr ""
 
 #: tfmain.exportrtftofile.caption
 msgid "Save as RTF"
+msgstr ""
+
+#: tfmain.filebrowsefolder.caption
+msgid "Browse Folder"
 msgstr ""
 
 #: tfmain.fileclose.caption
